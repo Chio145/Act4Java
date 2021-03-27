@@ -21,5 +21,9 @@
             <p> ÁREA: <%=resultadoA%></p>
             <p> PERÍMETRO: <%=resultadoP%></p>
             
+            <a href="calculo.jsp">
+                <button type="button">Regresar</button>
+                
+            </a>
     </body>
 </html>
